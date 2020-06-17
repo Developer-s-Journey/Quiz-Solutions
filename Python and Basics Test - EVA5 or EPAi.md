@@ -83,11 +83,13 @@ we want to calculate the rate of change (ROC) of y w.r.t `x1`. How will we circu
 - [ ] We forcefully make ReLU differentiable at 0.
 - [ ] ReLU is already is differentiable at 0.
 - [ ] We hope that we never have to calculate derivative of ReLU at 0.
-- [ ] We don't have to differentiate ReLU during training.
+- [x] We don't have to differentiate ReLU during training.
+
+***All options seemed wrong to me***
 
 12. What is the proper way to open a file that you intend to read from?
-- [x] `f = open(“r”,”file_name.txt”)`
-- [ ] `f = open(“file_name.txt”, “r”)`
+- [ ] `f = open(“r”,”file_name.txt”)`
+- [x] `f = open(“file_name.txt”, “r”)`
 - [ ] `f = open(“file_name.txt”, “read”)`
 - [ ] `f = open(“read”,”file_name.txt”)`
 
@@ -114,6 +116,7 @@ print((a == b), (a is b))
 - [x] True, True
 - [ ] True, False
 - [ ] BackNext
+
 
 ### **Test Questions - Part 2**
 
@@ -178,11 +181,11 @@ var3 = "3"
 print(var + var2 + var3)
 ```
 - [ ] 33
-- [x] TypeError: can only concatenate str (not "int") to str
+- [x] `TypeError: can only concatenate str (not "int") to str`
 - [ ] 6
 - [ ] 123
 
-22. The ‘in’ operator is used to check if a value exists within an iterable object container such as a list. Evaluates to true if it finds a variable in the specified sequence and false otherwise.
+22. The ‘`in`’ operator is used to check if a value exists within an iterable object container such as a list. Evaluates to true if it finds a variable in the specified sequence and false otherwise.
 
 - [x] True
 - [ ] False
@@ -218,6 +221,7 @@ print(x)
 - [ ] `[3, 4, 2, 5, 6]`
 - [ ] `[3, 4, 2, 1, 1, 5, 6]`
 - [x] `[4, 2, 1, 1, 5, 6, 1]`
+
 ***Correct answer should be [3, 2, 1, 1, 5, 6, 1]***
 
 27. Given a string `tsai = 'The School Of AI'`, which of the following code is incorrect?
@@ -227,10 +231,10 @@ print(x)
 - [ ] `print(tsai[0])`
 
 28. If you want to define a new kind of dnn layer, what would you use?
-- [x] torch.layer.dnn
-- [ ] torch.nn.functional
-- [ ] torch.layer
-- [ ] torch.nn
+- [x] `torch.layer.dnn`
+- [ ] `torch.nn.functional`
+- [ ] `torch.layer`
+- [ ] `torch.nn`
 
 29. Which of these is not an activation function?
 - [ ] RELU

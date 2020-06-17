@@ -5,7 +5,8 @@
 
 ### **Test Questions - Part 1**
 
-1. Assume that a red image is 200x200 in size. How many total pixels are there in the image?
+1. Assume this is a red image of 200x200 size. How many total pixels are there in this image?
+![Red Box](assets/red_box.png)
 - [ ] 20000 pixels
 - [x] 40000 pixels
 - [ ] 80000 pixels
@@ -80,6 +81,8 @@ we want to calculate the rate of change (ROC) of y w.r.t `x1`. How will we circu
 - [ ] We need to find out relationship between `x1` and `x2` first.
 
 11. ReLU (a function we normally use in DNN) is defined as below. It should be clear from the formula and the graph, that ReLU is non-differentiable at 0. But we need fully differentiable functions during backpropagation or training. How do you think then we use ReLU?
+
+![RELU Graph](assets/RELU_graph.png)
 - [ ] We forcefully make ReLU differentiable at 0.
 - [ ] ReLU is already is differentiable at 0.
 - [ ] We hope that we never have to calculate derivative of ReLU at 0.

@@ -332,7 +332,7 @@ What is the output of the code above?
 In the function we are running a loop to reverse the passed string, but as soon as we execute **yield**, the function is paused and the control is transferred to the caller till the next time we call **`next(res)`**.
 
 ## **Python is incredible.**
-#
+
 Control over the language (programming in our context) is extremely important. It helps us express and execute our ideas. 
 
 If you have spent or planning to spend a lot of time on deep learning, don't forget that unless you have control over Python, you'll not be able to unlock your true potential. 
@@ -340,7 +340,7 @@ If you have spent or planning to spend a lot of time on deep learning, don't for
 Python is a beautiful and deep language. Spend some time to relish its beauty!
 
 ## **What next?**
-#
+
 If you skimmed through the questions without any trouble then you're already doing awesome. 😀 Stay awesome and teach others!!
 
 If you had trouble, or wish to learn irrespective, 😁 then spend next month or two to learn about below listed things. Go slow, but make sure to spend at least 30 minutes every day. 

@@ -3,7 +3,7 @@
 
 Test Date : June 15th, 2020
 
-Status : `Pending`
+Status : `Passed`
 
 # Python Fundamentals Test
 ## by THE SCHOOL OF AI

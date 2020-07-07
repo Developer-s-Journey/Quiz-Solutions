@@ -3,7 +3,7 @@
 
 Test Date : April 15th, 2020
 
-Status : `Failed`
+Status : `Rejected`
 
 # Technical Assessment for Introduction to Data Science module(September Cohort)
 ## by WorldQuant University

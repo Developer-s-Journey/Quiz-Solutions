@@ -1,5 +1,5 @@
-# Quiz 1 (ML Bootcamp)
-## by CodeForCause
+# Mock Test (Ninja Hire 2020)
+## by Coding Ninjas
 
 ***All questions carry 20 Points each.***
 

@@ -71,7 +71,7 @@ We are interested in the top 1 articles authored by the user with username *olal
 
 The name of the first article is its story title because its title is null, while the name of the second article is its title. The number of comments in the first article is null, so we treat is as having 0 comments. When those articles are ordered ascending by comment count, only the second article appears in the top *limit* = 1. Therefore, the name of the second article is the only one appearing in the result.
 
-**[Solution](GirlScript Foundation/solution_1.py)**
+***[Solution](https://github.com/Developer-s-Journey/Test-Solutions/blob/master/GirlScript%20Foundation/solution_1.py)***
 
 ### 2. Message Queues
 

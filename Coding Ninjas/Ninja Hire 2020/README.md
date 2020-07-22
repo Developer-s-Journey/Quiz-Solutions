@@ -23,7 +23,7 @@ Wrong Answer - 1, 6, 8, 9, 15, 21, 23, 24, 27, 28, 30
 
 Test Date : July 19th, 2020
 
-Status : 13.2/320(expected)
+Status : 4.4/320 (Rejected)
 
 Wrong Answer - 1, 2
 

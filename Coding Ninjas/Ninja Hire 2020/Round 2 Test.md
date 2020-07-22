@@ -47,7 +47,7 @@ For every test case, print the output in a newline.
 
 ### **Maximum Subarray of Ones**
 
-2. Ninja was playing with a binary array. In his version, he has to delete any two consecutive elements once. He will only win if he can find the maximum length possible of non-empty subarray of only 1’s, after the deleting any two consecutive elements once. If he is unable to find such a subarray, he has to return zero. He needs your help in winning this game. Can you solve it?
+2. Ninja was playing with a binary array. In his version, he has to delete any two consecutive elements once. He will only win if he can find the maximum length possible of non-empty subarray of only `1’s`, after the deleting any two consecutive elements once. If he is unable to find such a subarray, he has to return zero. He needs your help in winning this game. Can you solve it?
 
 **Input format**
 ```
@@ -92,14 +92,15 @@ For the third test case: The maximum length subarray, as described in the task, 
 
 ### **Form the Greatest String 1**
 
-3. Ninja is playing with his alphabet toys. He has all the 26 lowercase alphabets. His granny wanted him to learn some maths as well.
+3. Ninja is playing with his alphabet toys. He has all the `26` lowercase alphabets. His granny wanted him to learn some maths as well.
 So, she added a cost with each of the alphabets, gave him a cost array and gave him an integer. Let us denote the integer by symbol target. She asks Ninja to find the greatest word (with or without meaning) under the following constraints:
 ```
 1. The cost array is 0 indexed and cost of using alphabet at index i is given by cost[i] (Note: ‘a’ is denoted by index 0, ‘b’ is denoted by index 1 and so on)
 2. The total expenditure of characters used must be equal to target. 
 ```
-You have to help Ninja to print the greatest word. If you are unable to form any word, under the given constraints, then print “0”.
-*Note:* If two words are given to you, then the greater of the two will be the one which comes later in the dictionary. For example, “hi” is greater than “hello”.
+You have to help Ninja to print the greatest word. If you are unable to form any word, under the given constraints, then print `“0”`.
+
+*Note:* If two words are given to you, then the greater of the two will be the one which comes later in the dictionary. For example, `“hi”` is greater than `“hello”`.
 
 **Input format:**
 ```

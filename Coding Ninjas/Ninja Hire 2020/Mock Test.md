@@ -695,7 +695,7 @@ Pattern in N lines
 #####
 ```
 
-***[Solution](https://github.com/Developer-s-Journey/Test-Solutions/blob/master/Coding%20Ninjas/Ninja%20Hire%202020/solution_31.cpp)***
+***[Solution]()***
 
 ### **F7 Championship**
 
@@ -742,4 +742,4 @@ The first and only line of output should contain the requested number of drivers
 4
 ```
 
-***[Solution](https://github.com/Developer-s-Journey/Test-Solutions/blob/master/Coding%20Ninjas/Ninja%20Hire%202020/solution_32.cpp)***
+***[Solution]()***

@@ -41,7 +41,7 @@ For every test case, print the output in a newline.
 0
 ```
 
-***[Solution]()***
+***[Solution](https://github.com/Developer-s-Journey/Test-Solutions/blob/master/Coding%20Ninjas/Ninja%20Hire%202020/round_2_solution_1_Modulo_product.cpp)***
 
 ***All questions carry 80 Points each.***
 
@@ -88,7 +88,7 @@ For the second test case: Since, there is no 1 in this binary array, so it is im
 For the third test case: The maximum length subarray, as described in the task, is [1,1,1] and it can be formed by deleting the two consecutive elements at fourth and fifth position.      
 ```
 
-***[Solution]()***
+***[Solution](https://github.com/Developer-s-Journey/Test-Solutions/blob/master/Coding%20Ninjas/Ninja%20Hire%202020/round_2_solution_2_Maximum_Subarray_of_Ones.java)***
 
 ### **Form the Greatest String 1**
 
@@ -132,7 +132,7 @@ Sample Input 2:
 0
 ```
 
-***[Solution]()***
+***[Solution](https://github.com/Developer-s-Journey/Test-Solutions/blob/master/Coding%20Ninjas/Ninja%20Hire%202020/round_2_solution_3_Form_the_Greatest_String_1.cpp)***
 
 ***All questions carry 120 Points each.***
 
@@ -201,4 +201,4 @@ The query string for query “p 12” will be: ninjasninjas. Assuming the first 
 9. 7 8 9 10 11 12
 ```
 
-***[Solution]()***
+***[Solution](https://github.com/Developer-s-Journey/Test-Solutions/blob/master/Coding%20Ninjas/Ninja%20Hire%202020/round_2_solution_4_Prefix_Suffix_Queries.java)***
